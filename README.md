@@ -14,5 +14,6 @@ I am in the high school of telecommunication
 8. weight training 
 
 Bio:
-My birthday is on 8/20/2005
+My birthday is on August 20th
 My is favorite color is blue 
+I am currently learning coding in SEP 
