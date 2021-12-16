@@ -1,9 +1,11 @@
 # about-me
-My name is Safe Nasher
-safen2614@hstat.org
+## My name is Safe Nasher  
 
-I am in the high school of telecommunication
+email: safen2614@hstat.org
 
+I am in the [high school of telecommunication](https://www.hstat.org/)
+
+schedule:
 1. history
 2. math
 3. chemistry
