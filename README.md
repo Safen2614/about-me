@@ -4,6 +4,7 @@
 email: safen2614@hstat.org
 
 I am in the [high school of telecommunication](https://www.hstat.org/)
+I am currently learning coding in SEP
 
 schedule:
 1. history
@@ -15,7 +16,9 @@ schedule:
 7. lunch
 8. weight training 
 
-Bio:
-My birthday is on August 20th
-My is favorite color is blue 
-I am currently learning coding in SEP 
+Bio:  
+* My birthday
+    * August 20th  
+* favorite color 
+    * blue   
+   
